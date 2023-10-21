@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+
+input{
+    background-color:bisque;
+    position: absolute;
+    right:5px;
+}
+p{
+    font-size:x-large;
+}

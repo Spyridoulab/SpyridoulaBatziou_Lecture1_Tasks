@@ -1,0 +1,10 @@
+body{
+    background-color:aqua;
+}
+
+input{
+    background-color:burlywood;
+    position: absolute;
+    right: 10px;
+ 
+}
